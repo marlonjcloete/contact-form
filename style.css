@@ -1,0 +1,66 @@
+body{
+background-color: sandybrown;
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+
+hr{
+    position: relative;
+    bottom: 50px;
+    width: 50%;
+    border-style: dashed;
+}
+
+input[type=text], select{
+    position: relative;
+    left: 400px;
+    width: 50%;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+}
+
+input[type=email]{
+    position: relative;
+    left: 400px;
+    width: 50%;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+}
+
+input[type=submit]{
+    position: relative;
+    left: 750px;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px 10px;
+    
+}
+
+textarea {
+    position: relative;
+    left: 400px;
+    width: 50%;
+    margin: 10px;
+    border-radius: 5px;
+    resize: none;
+}
+
+label{
+    position: relative;
+    left: 410px;
+}
+
+div {
+    border-radius: 5px;
+    background-color: burlywood;
+    padding: 20px;
+  }
+
+
